@@ -1,0 +1,5 @@
+[["capgemini-site-1" :site/url "https://www.capgemini.com" 1 :add]
+ ["capgemini-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["capgemini-site-1" :site/http-status 200 1 :add]
+ ["capgemini-site-1" :site/title "Capgemini - Make it real." 1 :add]
+ ["capgemini-site-1" :site/description "A global leader in consulting, technology services and digital transformation, we offer an array of integrated services combining technology with deep sector expertise." 1 :add]]
